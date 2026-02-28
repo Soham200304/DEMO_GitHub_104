@@ -1,0 +1,1 @@
+This app helps to build good habits and eliminate bad habits by setting up a timer that is pomodoro timer. This will make a habit of sticking to a particular task and eliminates procastination.
