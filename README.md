@@ -1,0 +1,1 @@
+This is a description of a project named "SmartProductive: A Samrt Productivity based Application and AI based buddy". This application helps user to use their time in productive manner by performing worthy tasks and eliminate procastination. An AI based Buddy will help you to get suggestions to what tasks to do at the moment.
